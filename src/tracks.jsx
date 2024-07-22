@@ -12,7 +12,7 @@ const tracks = [
       tags: ["Aand"],
     },
     {
-      url: "/sfx/sach-bata",
+      url: "/sfx/sach-bata.mp3",
       title: "Sach Bata",
       tags: ["Garma"],
     },
